@@ -22,6 +22,5 @@ Journalists or researchers could further investigate the owners, locations, and 
 and inform the public about which businesses may be unreliable or risky.
 
 I'm a bilingual journalist and data reporter currently pursuing a Master’s in Journalism at the Craig Newmark Graduate School of Journalism in New York and interning at Gothamist.
-My recent work focuses on immigration and Latino communities in the U.S., where I’ve reported on the struggles of undocumented street vendors and asylum seekers in New York, and Phoenix,
-for outlets like El País US and The Arizona Republic.
+My recent work focuses on immigration and Latino communities in the U.S., where I’ve reported on the struggles of undocumented street vendors and asylum seekers in New York, and Phoenix, for outlets like El País US and The Arizona Republic.
 <img width="344" height="137" alt="image" src="https://github.com/user-attachments/assets/5e2e653b-fbd5-40c3-b849-e984d67c29da" />
