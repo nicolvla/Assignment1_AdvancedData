@@ -46,4 +46,4 @@ The analysis is performed using Python and pandas, and involves:
 
 ## Who I am
 
-I'm a bilingual journalist and data reporter currently pursuing a Master’s in Journalism at the Craig Newmark Graduate School of Journalism in New York and interning at Gothamist. My recent work focuses on immigration and Latino communities in the U.S., where I’ve reported on the struggles of undocumented street vendors and asylum seekers in New York, and Phoenix, for outlets like El País US and The Arizona Republic.
+I'm a bilingual journalist and data reporter currently pursuing a Master’s in Journalism at the Craig Newmark Graduate School of Journalism in New York and interning at WNYC Radio / Gothamist. My recent work focuses on immigration and Latino communities in the U.S., where I’ve reported on the struggles of undocumented street vendors and asylum seekers in New York, and Phoenix, for outlets like El País US and The Arizona Republic.
